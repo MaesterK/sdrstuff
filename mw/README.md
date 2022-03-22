@@ -1,5 +1,5 @@
 # MW
-Simple middlewave AM-Modulation @ 1,3 MHz.<br>
+Simple middlewave AM-Modulation @ 1 MHz.<br>
 Takes .wav/.mp3-files as parameter and broadcasts the stream
 
 Uses LimeSDR Hardware / LimeSuite Library<br>
